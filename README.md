@@ -1,4 +1,4 @@
-This repository contains shaders for Unreal Engine (UE) and Shadertoy, which are tools used for creating visual effects and graphics in video games and other applications. The project is currently in its initial stage, with only a few files and no detailed description provided.
+This repository contains shaders for Unreal Engine (UE) and Shadertoy, which are tools used for creating visual effects and graphics in video games and other applications.
 
 Main Function Points
 Provides shaders for Unreal Engine and Shadertoy
